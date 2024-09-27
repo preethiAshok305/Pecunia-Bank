@@ -1,0 +1,64 @@
+Pecunia₹ Finance Limited, established in the year 2015, is an Indian private sector bank headquartered in Bangalore and is functioning only in Bangalore, India. In January 2019, Reserve Bank of India (RBI) issued the license to Pecunia₹ Finance Limited, to carry on banking business.
+They have one of the largest and most respected Wealth Management teams in India providing the widest range of solutions to individuals and employed professionals. As of December 30, 2018 Pecunia₹ has a net-worth of approximately ₹ 730 crore and micro-finance loans of ₹ 300 crore in its books.
+It offers a wide range of banking products and financial services for retail customers through a variety of delivery channels  in the areas of personal finance,  life insurance etc. 
+
+
+
+Project Name: Pecunia Internal Banking System - PIBS.
+
+Problem Statement:
+
+To operate in the above mentioned cities, Pecunia₹ Finance Limited is expanding its business and is looking for centralized application which helps them to offer financial services in other cities too.
+
+Pecunia₹ Finance Limited has a target of opening 20 new branches in the current financial year across major cities of India.
+
+
+
+
+
+Strategy:
+
+In an ideal Core Banking scenario, products, processes, channels, customer information and management tools are integrated and administered through a central database of the bank with branches and channels as delivery points. This helps in achieving economies of scale by data integration for various purposes such as cross selling, CRM, Regulatory Reporting and internal MIS. Banks can adopt information technology to manage business and performing assets effectively.
+
+To maintain a competitive edge in a market, migrating the organization at the earliest on a Core Banking platform is of utmost importance. Implementation of Core Banking solutions paves the way for the introduction of the electronic funds transfer mechanism in a secure way. Increased regulatory requirements have put pressure on banks. To sustain growth under continued regulatory requirements, it is essential for banks to have the right Core Banking System in place.
+
+
+
+
+
+Project Scope:
+From an end-user perspective, the Online Internal Banking System Project consists of several functional elements:
+
+Admin Module:
+Adding a new employee
+Removing an employee
+
+Employee Module:
+Accessing various functionalities of other sub modules
+ mentioned below:
+
+	Customer Module:
+Adding a new customer
+Searching a particular customer
+Updating customer details
+Account Module:
+Creating a new account
+Updating/Modifying account
+Deleting an existing account
+Searching a particular account
+
+                  Transaction Module:
+Performing a credit transaction
+Performing a debit transaction
+
+	Utilities Module:
+Applying for various utility services like credit card, cheque book, etc.
+Searching for cards and chequebooks
+Blocking cards
+
+	Loan Module:
+Applying for loans
+Checking for loan eligibility
+
+
+
